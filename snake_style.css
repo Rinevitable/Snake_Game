@@ -1,0 +1,18 @@
+*{
+  background-image: url("https://i.pinimg.com/originals/9e/5b/e5/9e5be5aaec8d02052f82a194d821e227.jpg");
+}
+
+h1{
+  color: #0010BF;
+  text-align: center;
+  font-size: 250%;
+}
+.m_canvas{
+  width: auto;
+  text-align: center;
+}
+#my_canvas{
+  background-image: url("data/back.jpg");
+  border:7px solid green;
+  /* display: inline; */
+}
