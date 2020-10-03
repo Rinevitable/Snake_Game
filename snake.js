@@ -135,4 +135,4 @@ function game_loop(){
 
 init();//calling init
 
-var t = setInterval(game_loop,110);//for moion to be seen
+var t = setInterval(game_loop,120);//for moion to be seen
